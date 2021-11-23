@@ -7,8 +7,7 @@ import { FormGroup, FormControl, FormArray, NgForm } from '@angular/forms'
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Employee Details';
-  name="Dinesh Bind";
+  title = 'Angular 10 Spring Boot CRUD Full Stack App';
 getValue()
 {
   return "get function data"
